@@ -33,7 +33,7 @@ Here are some stats about me:
 {{- end}}
 
 #### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors}}
+{{range sponsors 10}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
