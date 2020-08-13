@@ -15,15 +15,17 @@ Here are some stats about me:
 | --- | --- |
 | ![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StephenBrown2&show_icons=true&count_private=true) | ![Stephen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBrown2&layout=compact) |
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+#### 👷 Check out what I've recently contributed to
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+<!--
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+-->
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
@@ -31,7 +33,7 @@ Here are some stats about me:
 {{- end}}
 
 #### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
+{{range sponsors}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
