@@ -27,10 +27,10 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), today) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [timothycrosley/isort](https://github.com/timothycrosley/isort) ([5.4.1](https://github.com/timothycrosley/isort/releases/tag/5.4.1), 1 day ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.14.1](https://github.com/encode/httpx/releases/tag/0.14.1), 3 days ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.10.16](https://github.com/getsentry/responses/releases/tag/0.10.16), 3 days ago) - A utility for mocking out the Python Requests library.
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.26.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.26.0), 1 week ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b2](https://github.com/python-poetry/poetry/releases/tag/1.1.0b2), 3 weeks ago) - Python dependency management and packaging made easy.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 1 month ago) - Data parsing and validation using Python type hints
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 3 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
