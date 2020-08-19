@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [timothycrosley/isort](https://github.com/timothycrosley/isort) ([5.4.2](https://github.com/timothycrosley/isort/releases/tag/5.4.2), 3 days ago) - A Python utility / library to sort imports.
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 4 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [timothycrosley/isort](https://github.com/timothycrosley/isort) ([5.4.2](https://github.com/timothycrosley/isort/releases/tag/5.4.2), 4 days ago) - A Python utility / library to sort imports.
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 5 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [encode/httpx](https://github.com/encode/httpx) ([0.14.1](https://github.com/encode/httpx/releases/tag/0.14.1), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.10.16](https://github.com/getsentry/responses/releases/tag/0.10.16), 1 week ago) - A utility for mocking out the Python Requests library.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b2](https://github.com/python-poetry/poetry/releases/tag/1.1.0b2), 3 weeks ago) - Python dependency management and packaging made easy.
@@ -38,7 +38,7 @@ Here are some stats about me:
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [pawamoy](https://github.com/pawamoy) (5 days ago)
+- [pawamoy](https://github.com/pawamoy) (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
