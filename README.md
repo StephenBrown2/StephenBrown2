@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (2 weeks ago)
+- [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (3 weeks ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (3 weeks ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 months ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (3 months ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 day ago) - A utility for mocking out the Python Requests library.
+- [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 2 days ago) - A utility for mocking out the Python Requests library.
 - [encode/httpx](https://github.com/encode/httpx) ([0.14.2](https://github.com/encode/httpx/releases/tag/0.14.2), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.4.2](https://github.com/PyCQA/isort/releases/tag/5.4.2), 2 weeks ago) - A Python utility / library to sort imports.
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 2 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
