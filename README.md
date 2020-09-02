@@ -17,9 +17,9 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (today)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 day ago)
 - [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (3 weeks ago)
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (3 weeks ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (3 months ago)
 - [russbiggs/json2dataclass](https://github.com/russbiggs/json2dataclass) - convert JSON to Python dataclasses (4 months ago)
 
