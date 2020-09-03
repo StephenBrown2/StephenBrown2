@@ -27,9 +27,9 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.0](https://github.com/PyCQA/isort/releases/tag/5.5.0), today) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.14.3](https://github.com/encode/httpx/releases/tag/0.14.3), 1 day ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 4 days ago) - A utility for mocking out the Python Requests library.
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.4.2](https://github.com/PyCQA/isort/releases/tag/5.4.2), 2 weeks ago) - A Python utility / library to sort imports.
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 2 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b2](https://github.com/python-poetry/poetry/releases/tag/1.1.0b2), 1 month ago) - Python dependency management and packaging made easy.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 1 month ago) - Data parsing and validation using Python type hints
