@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 day ago)
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 days ago)
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 days ago)
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (3 days ago)
 - [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (3 weeks ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (3 months ago)
 - [russbiggs/json2dataclass](https://github.com/russbiggs/json2dataclass) - convert JSON to Python dataclasses (4 months ago)
@@ -27,10 +27,10 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.0](https://github.com/PyCQA/isort/releases/tag/5.5.0), today) - A Python utility / library to sort imports.
-- [encode/httpx](https://github.com/encode/httpx) ([0.14.3](https://github.com/encode/httpx/releases/tag/0.14.3), 1 day ago) - A next generation HTTP client for Python. 🦋
-- [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 4 days ago) - A utility for mocking out the Python Requests library.
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 2 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.0](https://github.com/PyCQA/isort/releases/tag/5.5.0), 1 day ago) - A Python utility / library to sort imports.
+- [encode/httpx](https://github.com/encode/httpx) ([0.14.3](https://github.com/encode/httpx/releases/tag/0.14.3), 2 days ago) - A next generation HTTP client for Python. 🦋
+- [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 5 days ago) - A utility for mocking out the Python Requests library.
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 3 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b2](https://github.com/python-poetry/poetry/releases/tag/1.1.0b2), 1 month ago) - Python dependency management and packaging made easy.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 1 month ago) - Data parsing and validation using Python type hints
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 4 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
