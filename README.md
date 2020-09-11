@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (2 days ago)
+- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (3 days ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 week ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 week ago)
 - [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (1 month ago)
@@ -27,10 +27,10 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.2](https://github.com/PyCQA/isort/releases/tag/5.5.2), today) - A Python utility / library to sort imports.
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.2](https://github.com/PyCQA/isort/releases/tag/5.5.2), 1 day ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.14.3](https://github.com/encode/httpx/releases/tag/0.14.3), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 week ago) - A utility for mocking out the Python Requests library.
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 3 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 4 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b2](https://github.com/python-poetry/poetry/releases/tag/1.1.0b2), 1 month ago) - Python dependency management and packaging made easy.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 1 month ago) - Data parsing and validation using Python type hints
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 4 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
