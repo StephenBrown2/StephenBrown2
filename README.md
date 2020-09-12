@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (3 days ago)
+- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (4 days ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 week ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 week ago)
 - [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (1 month ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.2](https://github.com/PyCQA/isort/releases/tag/5.5.2), 1 day ago) - A Python utility / library to sort imports.
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.2](https://github.com/PyCQA/isort/releases/tag/5.5.2), 2 days ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.14.3](https://github.com/encode/httpx/releases/tag/0.14.3), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 week ago) - A utility for mocking out the Python Requests library.
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.27.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.27.0), 4 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
@@ -38,7 +38,7 @@ Here are some stats about me:
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [pawamoy](https://github.com/pawamoy) (4 weeks ago)
+- [pawamoy](https://github.com/pawamoy) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
