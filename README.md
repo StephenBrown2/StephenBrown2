@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (2 days ago)
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (3 days ago)
+- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (3 days ago)
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (4 days ago)
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (1 week ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 weeks ago)
 - [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (1 month ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b3](https://github.com/python-poetry/poetry/releases/tag/1.1.0b3), today) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b3](https://github.com/python-poetry/poetry/releases/tag/1.1.0b3), 1 day ago) - Python dependency management and packaging made easy.
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.2](https://github.com/PyCQA/isort/releases/tag/5.5.2), 1 week ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.14.3](https://github.com/encode/httpx/releases/tag/0.14.3), 2 weeks ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 2 weeks ago) - A utility for mocking out the Python Requests library.
