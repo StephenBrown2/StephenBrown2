@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [encode/httpx](https://github.com/encode/httpx) ([0.15.1](https://github.com/encode/httpx/releases/tag/0.15.1), today) - A next generation HTTP client for Python. 🦋
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0b4](https://github.com/python-poetry/poetry/releases/tag/1.1.0b4), 1 day ago) - Python dependency management and packaging made easy.
-- [encode/httpx](https://github.com/encode/httpx) ([0.15.0](https://github.com/encode/httpx/releases/tag/0.15.0), 1 day ago) - A next generation HTTP client for Python. 🦋
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.28.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.28.1), 2 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.3](https://github.com/PyCQA/isort/releases/tag/5.5.3), 3 days ago) - A Python utility / library to sort imports.
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 3 weeks ago) - A utility for mocking out the Python Requests library.
