@@ -18,19 +18,19 @@ Here are some stats about me:
 #### 👷 Check out what I've recently contributed to
 
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 week ago)
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 week ago)
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (2 weeks ago)
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (3 weeks ago)
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 weeks ago)
+- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (3 weeks ago)
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (4 weeks ago)
 - [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi (1 month ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0rc1](https://github.com/python-poetry/poetry/releases/tag/1.1.0rc1), 3 days ago) - Python dependency management and packaging made easy.
-- [encode/httpx](https://github.com/encode/httpx) ([0.15.4](https://github.com/encode/httpx/releases/tag/0.15.4), 3 days ago) - A next generation HTTP client for Python. 🦋
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.0rc1](https://github.com/python-poetry/poetry/releases/tag/1.1.0rc1), 4 days ago) - Python dependency management and packaging made easy.
+- [encode/httpx](https://github.com/encode/httpx) ([0.15.4](https://github.com/encode/httpx/releases/tag/0.15.4), 4 days ago) - A next generation HTTP client for Python. 🦋
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.3](https://github.com/PyCQA/isort/releases/tag/5.5.3), 1 week ago) - A Python utility / library to sort imports.
-- [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 4 weeks ago) - A utility for mocking out the Python Requests library.
+- [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 month ago) - A utility for mocking out the Python Requests library.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 2 months ago) - Data parsing and validation using Python type hints
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 5 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [google/open-location-code](https://github.com/google/open-location-code) ([1.0.4](https://github.com/google/open-location-code/releases/tag/1.0.4), 1 year ago) - Open Location Code is a library to generate short codes, called &#34;plus codes&#34;, that can be used as digital addresses where street addresses don&#39;t exist.
