@@ -17,9 +17,9 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (today)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (2 weeks ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 weeks ago)
-- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (3 weeks ago)
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (3 weeks ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 month ago)
 
