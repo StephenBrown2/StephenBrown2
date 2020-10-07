@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (1 day ago)
-- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (2 weeks ago)
+- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (2 days ago)
+- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (3 weeks ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (3 weeks ago)
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (4 weeks ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 month ago)
@@ -27,9 +27,9 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.2](https://github.com/python-poetry/poetry/releases/tag/1.1.2), today) - Python dependency management and packaging made easy.
-- [encode/httpx](https://github.com/encode/httpx) ([0.16.0](https://github.com/encode/httpx/releases/tag/0.16.0), today) - A next generation HTTP client for Python. 🦋
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.4](https://github.com/PyCQA/isort/releases/tag/5.5.4), 6 days ago) - A Python utility / library to sort imports.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.2](https://github.com/python-poetry/poetry/releases/tag/1.1.2), 1 day ago) - Python dependency management and packaging made easy.
+- [encode/httpx](https://github.com/encode/httpx) ([0.16.0](https://github.com/encode/httpx/releases/tag/0.16.0), 1 day ago) - A next generation HTTP client for Python. 🦋
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.4](https://github.com/PyCQA/isort/releases/tag/5.5.4), 1 week ago) - A Python utility / library to sort imports.
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 month ago) - A utility for mocking out the Python Requests library.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 2 months ago) - Data parsing and validation using Python type hints
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 5 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
