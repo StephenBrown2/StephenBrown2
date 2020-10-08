@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.5.5](https://github.com/PyCQA/isort/releases/tag/5.5.5), today) - A Python utility / library to sort imports.
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.0](https://github.com/PyCQA/isort/releases/tag/5.6.0), today) - A Python utility / library to sort imports.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.2](https://github.com/python-poetry/poetry/releases/tag/1.1.2), 2 days ago) - Python dependency management and packaging made easy.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.0](https://github.com/encode/httpx/releases/tag/0.16.0), 2 days ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 month ago) - A utility for mocking out the Python Requests library.
