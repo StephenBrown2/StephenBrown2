@@ -27,9 +27,9 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.3](https://github.com/python-poetry/poetry/releases/tag/1.1.3), today) - Python dependency management and packaging made easy.
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 1 day ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 6 days ago) - A next generation HTTP client for Python. 🦋
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.2](https://github.com/python-poetry/poetry/releases/tag/1.1.2), 1 week ago) - Python dependency management and packaging made easy.
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 month ago) - A utility for mocking out the Python Requests library.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 3 months ago) - Data parsing and validation using Python type hints
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 5 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
