@@ -27,11 +27,11 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7), today) - Data parsing and validation using Python type hints
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.4](https://github.com/python-poetry/poetry/releases/tag/1.1.4), 3 days ago) - Python dependency management and packaging made easy.
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 1 week ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 2 weeks ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 1 month ago) - A utility for mocking out the Python Requests library.
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.6.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.6.1), 3 months ago) - Data parsing and validation using Python type hints
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 6 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [google/open-location-code](https://github.com/google/open-location-code) ([1.0.4](https://github.com/google/open-location-code/releases/tag/1.0.4), 1 year ago) - Open Location Code is a library to generate short codes, called &#34;plus codes&#34;, that can be used as digital addresses where street addresses don&#39;t exist.
 
