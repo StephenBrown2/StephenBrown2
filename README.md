@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.1), 3 days ago) - Data parsing and validation using Python type hints
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.1), 4 days ago) - Data parsing and validation using Python type hints
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.4](https://github.com/python-poetry/poetry/releases/tag/1.1.4), 1 week ago) - Python dependency management and packaging made easy.
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 2 weeks ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 3 weeks ago) - A next generation HTTP client for Python. 🦋
