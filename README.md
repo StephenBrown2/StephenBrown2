@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (1 day ago)
+- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (2 days ago)
 - [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (1 month ago)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 month ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 month ago)
@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.2), 4 days ago) - Data parsing and validation using Python type hints
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.4](https://github.com/python-poetry/poetry/releases/tag/1.1.4), 1 week ago) - Python dependency management and packaging made easy.
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.2), 5 days ago) - Data parsing and validation using Python type hints
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.4](https://github.com/python-poetry/poetry/releases/tag/1.1.4), 2 weeks ago) - Python dependency management and packaging made easy.
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 3 weeks ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 4 weeks ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 2 months ago) - A utility for mocking out the Python Requests library.
