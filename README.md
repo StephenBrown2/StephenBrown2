@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (5 days ago)
+- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (6 days ago)
 - [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (1 month ago)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 month ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 month ago)
@@ -29,7 +29,7 @@ Here are some stats about me:
 
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.2), 1 week ago) - Data parsing and validation using Python type hints
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) ([1.1.4](https://github.com/python-poetry/poetry/releases/tag/1.1.4), 2 weeks ago) - Python dependency management and packaging made easy.
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 3 weeks ago) - A Python utility / library to sort imports.
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 4 weeks ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 1 month ago) - A next generation HTTP client for Python. 🦋
 - [getsentry/responses](https://github.com/getsentry/responses) ([0.12.0](https://github.com/getsentry/responses/releases/tag/0.12.0), 2 months ago) - A utility for mocking out the Python Requests library.
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 6 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
