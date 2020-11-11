@@ -17,11 +17,11 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [rockstor/rockon-registry](https://github.com/rockstor/rockon-registry) - hosted registry for Rock-ons (2 days ago)
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (1 week ago)
 - [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (1 month ago)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 month ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 month ago)
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 months ago)
 
 
 
