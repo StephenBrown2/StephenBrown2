@@ -18,8 +18,8 @@ Here are some stats about me:
 #### 👷 Check out what I've recently contributed to
 
 - [rockstor/rockon-registry](https://github.com/rockstor/rockon-registry) - hosted registry for Rock-ons (3 weeks ago)
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (4 weeks ago)
-- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (1 month ago)
+- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (1 month ago)
+- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (2 months ago)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (2 months ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 months ago)
 
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 3 days ago) - Data parsing and validation using Python type hints
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 4 days ago) - Data parsing and validation using Python type hints
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 1 month ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 1 month ago) - A next generation HTTP client for Python. 🦋
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 7 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
