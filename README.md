@@ -39,10 +39,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [art049](https://github.com/art049)
 - [hoenirvili](https://github.com/hoenirvili)
 - [codeRulc](https://github.com/codeRulc)
 - [russbiggs](https://github.com/russbiggs)
 - [pawamoy](https://github.com/pawamoy)
-- [nimbinatus](https://github.com/nimbinatus)
 
 
