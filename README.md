@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [openaps/AndroidAPSdocs](https://github.com/openaps/AndroidAPSdocs) - Documentation for AndroidAPS (6 days ago)
+- [openaps/AndroidAPSdocs](https://github.com/openaps/AndroidAPSdocs) - Documentation for AndroidAPS (1 week ago)
 - [rockstor/rockon-registry](https://github.com/rockstor/rockon-registry) - hosted registry for Rock-ons (1 month ago)
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (1 month ago)
 - [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (2 months ago)
@@ -35,7 +35,7 @@ Here are some stats about me:
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [pawamoy](https://github.com/pawamoy) (3 months ago)
+- [pawamoy](https://github.com/pawamoy) (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
