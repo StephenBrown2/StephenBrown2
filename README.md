@@ -28,7 +28,7 @@ Here are some stats about me:
 #### 🔭 Latest releases I've contributed to
 
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 1 week ago) - Data parsing and validation using Python type hints
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 1 month ago) - A Python utility / library to sort imports.
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 2 months ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 2 months ago) - A next generation HTTP client for Python. 🦋
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 7 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [google/open-location-code](https://github.com/google/open-location-code) ([1.0.4](https://github.com/google/open-location-code/releases/tag/1.0.4), 1 year ago) - Open Location Code is a library to generate short codes, called &#34;plus codes&#34;, that can be used as digital addresses where street addresses don&#39;t exist.
