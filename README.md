@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 3 weeks ago) - Data parsing and validation using Python type hints
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 4 weeks ago) - Data parsing and validation using Python type hints
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 1 month ago) - MongoEngine flask extension with WTF model forms support
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 2 months ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 2 months ago) - A next generation HTTP client for Python. 🦋
