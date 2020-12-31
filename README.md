@@ -27,9 +27,9 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.7.0](https://github.com/PyCQA/isort/releases/tag/5.7.0), today) - A Python utility / library to sort imports.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 1 month ago) - Data parsing and validation using Python type hints
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 1 month ago) - MongoEngine flask extension with WTF model forms support
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.6.4](https://github.com/PyCQA/isort/releases/tag/5.6.4), 2 months ago) - A Python utility / library to sort imports.
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 2 months ago) - A next generation HTTP client for Python. 🦋
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 8 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [google/open-location-code](https://github.com/google/open-location-code) ([1.0.4](https://github.com/google/open-location-code/releases/tag/1.0.4), 1 year ago) - Open Location Code is a library to generate short codes, called &#34;plus codes&#34;, that can be used as digital addresses where street addresses don&#39;t exist.
