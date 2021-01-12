@@ -17,16 +17,17 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) -  (5 days ago)
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support (4 weeks ago)
 - [openaps/AndroidAPSdocs](https://github.com/openaps/AndroidAPSdocs) - Documentation for AndroidAPS (1 month ago)
 - [rockstor/rockon-registry](https://github.com/rockstor/rockon-registry) - hosted registry for Rock-ons (2 months ago)
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (2 months ago)
-- [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (3 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.0](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.0), 1 week ago) - 
 - [PyCQA/isort](https://github.com/PyCQA/isort) ([5.7.0](https://github.com/PyCQA/isort/releases/tag/5.7.0), 1 week ago) - A Python utility / library to sort imports.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 1 month ago) - Data parsing and validation using Python type hints
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 1 month ago) - MongoEngine flask extension with WTF model forms support
