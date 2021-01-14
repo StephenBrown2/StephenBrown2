@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) -  (6 days ago)
-- [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support (4 weeks ago)
+- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) -  (1 week ago)
+- [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support (1 month ago)
 - [openaps/AndroidAPSdocs](https://github.com/openaps/AndroidAPSdocs) - Documentation for AndroidAPS (1 month ago)
 - [rockstor/rockon-registry](https://github.com/rockstor/rockon-registry) - hosted registry for Rock-ons (2 months ago)
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (2 months ago)
@@ -27,12 +27,12 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.1.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.1.1), 1 day ago) - 
-- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.7.0](https://github.com/PyCQA/isort/releases/tag/5.7.0), 1 week ago) - A Python utility / library to sort imports.
+- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.1.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.1.1), 2 days ago) - 
+- [PyCQA/isort](https://github.com/PyCQA/isort) ([5.7.0](https://github.com/PyCQA/isort/releases/tag/5.7.0), 2 weeks ago) - A Python utility / library to sort imports.
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 1 month ago) - Data parsing and validation using Python type hints
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 1 month ago) - MongoEngine flask extension with WTF model forms support
 - [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 3 months ago) - A next generation HTTP client for Python. 🦋
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 8 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 9 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
