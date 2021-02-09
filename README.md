@@ -35,7 +35,7 @@ Here are some stats about me:
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [pawamoy](https://github.com/pawamoy) (5 months ago)
+- [pawamoy](https://github.com/pawamoy) (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
