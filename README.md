@@ -17,16 +17,17 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) - nightscout web monitor (1 month ago)
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) -  (1 month ago)
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support (2 months ago)
 - [openaps/AndroidAPSdocs](https://github.com/openaps/AndroidAPSdocs) - Documentation for AndroidAPS (2 months ago)
 - [rockstor/rockon-registry](https://github.com/rockstor/rockon-registry) - hosted registry for Rock-ons (3 months ago)
-- [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0 (3 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.0](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.0), today) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 3 weeks ago) - 
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.7.3](https://github.com/samuelcolvin/pydantic/releases/tag/v1.7.3), 2 months ago) - Data parsing and validation using Python type hints
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 2 months ago) - MongoEngine flask extension with WTF model forms support
