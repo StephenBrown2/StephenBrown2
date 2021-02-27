@@ -40,10 +40,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
-- [d4rk-d3vi1](https://github.com/d4rk-d3vi1)
 - [avaitla](https://github.com/avaitla)
 - [art049](https://github.com/art049)
 - [hoenirvili](https://github.com/hoenirvili)
 - [codeRulc](https://github.com/codeRulc)
+- [russbiggs](https://github.com/russbiggs)
 
 
