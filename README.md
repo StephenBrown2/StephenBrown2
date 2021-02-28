@@ -27,11 +27,11 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [encode/httpx](https://github.com/encode/httpx) ([0.17.0](https://github.com/encode/httpx/releases/tag/0.17.0), today) - A next generation HTTP client for Python. 🦋
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8), 2 days ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 6 days ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 1 month ago) - 
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 3 months ago) - MongoEngine flask extension with WTF model forms support
-- [encode/httpx](https://github.com/encode/httpx) ([0.16.1](https://github.com/encode/httpx/releases/tag/0.16.1), 4 months ago) - A next generation HTTP client for Python. 🦋
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) ([0.5.0](https://github.com/tiangolo/full-stack-fastapi-postgresql/releases/tag/0.5.0), 10 months ago) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 
 #### ❤️ These awesome people sponsor me (thank you!)
