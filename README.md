@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) ([0.17.0](https://github.com/encode/httpx/releases/tag/0.17.0), 2 days ago) - A next generation HTTP client for Python. 🦋
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8), 4 days ago) - Data parsing and validation using Python type hints
+- [encode/httpx](https://github.com/encode/httpx) ([0.17.0](https://github.com/encode/httpx/releases/tag/0.17.0), 3 days ago) - A next generation HTTP client for Python. 🦋
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8), 5 days ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 1 week ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 1 month ago) - 
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 3 months ago) - MongoEngine flask extension with WTF model forms support
