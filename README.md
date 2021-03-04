@@ -20,15 +20,15 @@ Here are some stats about me:
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) - nightscout web monitor (1 month ago)
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) -  (1 month ago)
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support (2 months ago)
-- [openaps/AndroidAPSdocs](https://github.com/openaps/AndroidAPSdocs) - Documentation for AndroidAPS (2 months ago)
+- [openaps/AndroidAPSdocs](https://github.com/openaps/AndroidAPSdocs) - Documentation for AndroidAPS (3 months ago)
 - [rockstor/rockon-registry](https://github.com/rockstor/rockon-registry) - hosted registry for Rock-ons (3 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), today) - Data parsing and validation using Python type hints
-- [encode/httpx](https://github.com/encode/httpx) ([0.17.0](https://github.com/encode/httpx/releases/tag/0.17.0), 3 days ago) - A next generation HTTP client for Python. 🦋
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), 1 day ago) - Data parsing and validation using Python type hints
+- [encode/httpx](https://github.com/encode/httpx) ([0.17.0](https://github.com/encode/httpx/releases/tag/0.17.0), 4 days ago) - A next generation HTTP client for Python. 🦋
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 1 week ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 1 month ago) - 
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 3 months ago) - MongoEngine flask extension with WTF model forms support
