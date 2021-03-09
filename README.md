@@ -17,9 +17,9 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/blua-kuirlibro](https://github.com/StephenBrown2/blua-kuirlibro) - An &#34;API&#34; around Blue Apron&#39;s Cookbook of recipes. (4 days ago)
-- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (4 days ago)
-- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) - nightscout web monitor (1 month ago)
+- [StephenBrown2/blua-kuirlibro](https://github.com/StephenBrown2/blua-kuirlibro) - An &#34;API&#34; around Blue Apron&#39;s Cookbook of recipes. (5 days ago)
+- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (5 days ago)
+- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) - nightscout web monitor (2 months ago)
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) -  (2 months ago)
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support (2 months ago)
 
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), 5 days ago) - Data parsing and validation using Python type hints
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), 6 days ago) - Data parsing and validation using Python type hints
 - [encode/httpx](https://github.com/encode/httpx) ([0.17.0](https://github.com/encode/httpx/releases/tag/0.17.0), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 2 weeks ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 1 month ago) - 
