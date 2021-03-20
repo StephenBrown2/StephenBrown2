@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (today)
+- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 day ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 week ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (2 weeks ago)
 - [StephenBrown2/blua-kuirlibro](https://github.com/StephenBrown2/blua-kuirlibro) - An &#34;API&#34; around Blue Apron&#39;s Cookbook of recipes. (2 weeks ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) ([0.17.1](https://github.com/encode/httpx/releases/tag/0.17.1), 4 days ago) - A next generation HTTP client for Python. 🦋
+- [encode/httpx](https://github.com/encode/httpx) ([0.17.1](https://github.com/encode/httpx/releases/tag/0.17.1), 5 days ago) - A next generation HTTP client for Python. 🦋
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), 2 weeks ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 3 weeks ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 1 month ago) - 
