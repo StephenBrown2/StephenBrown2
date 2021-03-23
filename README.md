@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (4 days ago)
+- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (today)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 week ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (2 weeks ago)
 - [StephenBrown2/blua-kuirlibro](https://github.com/StephenBrown2/blua-kuirlibro) - An &#34;API&#34; around Blue Apron&#39;s Cookbook of recipes. (2 weeks ago)
