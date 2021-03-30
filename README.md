@@ -17,17 +17,18 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (today)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 week ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 weeks ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (3 weeks ago)
 - [StephenBrown2/blua-kuirlibro](https://github.com/StephenBrown2/blua-kuirlibro) - An &#34;API&#34; around Blue Apron&#39;s Cookbook of recipes. (3 weeks ago)
-- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) - nightscout web monitor (2 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
 - [encode/httpx](https://github.com/encode/httpx) ([0.17.1](https://github.com/encode/httpx/releases/tag/0.17.1), 2 weeks ago) - A next generation HTTP client for Python. 🦋
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.31.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.31.1), 2 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), 3 weeks ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 1 month ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 2 months ago) - 
