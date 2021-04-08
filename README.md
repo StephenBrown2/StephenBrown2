@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.32.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.32.0), today) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [encode/httpx](https://github.com/encode/httpx) ([0.17.1](https://github.com/encode/httpx/releases/tag/0.17.1), 3 weeks ago) - A next generation HTTP client for Python. 🦋
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.31.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.31.1), 4 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), 1 month ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 1 month ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 2 months ago) - 
