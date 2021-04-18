@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (6 days ago)
+- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 week ago)
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (1 week ago)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (3 weeks ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 month ago)
