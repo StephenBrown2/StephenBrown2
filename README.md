@@ -17,11 +17,11 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [openaps/dexcom_reader](https://github.com/openaps/dexcom_reader) -  (2 days ago)
+- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (today)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 days ago)
+- [openaps/dexcom_reader](https://github.com/openaps/dexcom_reader) -  (2 days ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 week ago)
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (2 weeks ago)
-- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (4 weeks ago)
 
 
 
