@@ -17,11 +17,11 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 week ago)
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 weeks ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (today)
+- [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (today)
 - [openaps/dexcom_reader](https://github.com/openaps/dexcom_reader) -  (2 weeks ago)
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 weeks ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (3 weeks ago)
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (1 month ago)
 
 
 
@@ -29,6 +29,7 @@ Here are some stats about me:
 
 - [encode/httpx](https://github.com/encode/httpx) ([0.18.1](https://github.com/encode/httpx/releases/tag/0.18.1), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.32.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.32.0), 4 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.39.0](https://github.com/golangci/golangci-lint/releases/tag/v1.39.0), 1 month ago) - Fast linters Runner for Go
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.1), 2 months ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 2 months ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 3 months ago) - 
