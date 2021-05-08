@@ -18,10 +18,10 @@ Here are some stats about me:
 #### 👷 Check out what I've recently contributed to
 
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 day ago)
+- [rockstor/rockstor-dev-env](https://github.com/rockstor/rockstor-dev-env) - Vagrant &amp; Ansible based developer environment intended to assist with initial source build setups. (2 days ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (2 days ago)
 - [openaps/dexcom_reader](https://github.com/openaps/dexcom_reader) -  (2 weeks ago)
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 weeks ago)
-- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (3 weeks ago)
 
 
 
