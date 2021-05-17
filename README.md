@@ -20,15 +20,15 @@ Here are some stats about me:
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (1 week ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (1 week ago)
 - [rockstor/rockstor-dev-env](https://github.com/rockstor/rockstor-dev-env) - Vagrant &amp; Ansible based developer environment intended to assist with initial source build setups. (1 week ago)
-- [openaps/dexcom_reader](https://github.com/openaps/dexcom_reader) -  (3 weeks ago)
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (3 weeks ago)
+- [openaps/dexcom_reader](https://github.com/openaps/dexcom_reader) -  (4 weeks ago)
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (4 weeks ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.40.1](https://github.com/golangci/golangci-lint/releases/tag/v1.40.1), 2 days ago) - Fast linters Runner for Go
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 5 days ago) - Data parsing and validation using Python type hints
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.40.1](https://github.com/golangci/golangci-lint/releases/tag/v1.40.1), 3 days ago) - Fast linters Runner for Go
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 6 days ago) - Data parsing and validation using Python type hints
 - [encode/httpx](https://github.com/encode/httpx) ([0.18.1](https://github.com/encode/httpx/releases/tag/0.18.1), 2 weeks ago) - A next generation HTTP client for Python. 🦋
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.32.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.32.0), 1 month ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 2 months ago) - nightscout web monitor
