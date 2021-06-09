@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.33.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.33.0), 3 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.33.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.33.0), 4 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.40.1](https://github.com/golangci/golangci-lint/releases/tag/v1.40.1), 3 weeks ago) - Fast linters Runner for Go
 - [encode/httpx](https://github.com/encode/httpx) ([0.18.1](https://github.com/encode/httpx/releases/tag/0.18.1), 1 month ago) - A next generation HTTP client for Python. 🦋
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 3 months ago) - nightscout web monitor
@@ -36,7 +36,7 @@ Here are some stats about me:
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [pawamoy](https://github.com/pawamoy) (9 months ago)
+- [pawamoy](https://github.com/pawamoy) (10 months ago)
 
 #### 👯 Check out some of my recent followers
 
