@@ -33,6 +33,7 @@ Here are some stats about me:
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 3 months ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 4 months ago) - 
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 6 months ago) - MongoEngine flask extension with WTF model forms support
+- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.2](https://github.com/gobuffalo/flect/releases/tag/v0.2.2), 9 months ago) - An inflection engine for golang
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
