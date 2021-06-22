@@ -27,12 +27,12 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.41.1](https://github.com/golangci/golangci-lint/releases/tag/v1.41.1), 2 days ago) - Fast linters Runner for Go
-- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.3](https://github.com/gobuffalo/flect/releases/tag/v0.2.3), 4 days ago) - An inflection engine for golang
-- [encode/httpx](https://github.com/encode/httpx) ([0.18.2](https://github.com/encode/httpx/releases/tag/0.18.2), 4 days ago) - A next generation HTTP client for Python. 🦋
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.41.1](https://github.com/golangci/golangci-lint/releases/tag/v1.41.1), 3 days ago) - Fast linters Runner for Go
+- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.3](https://github.com/gobuffalo/flect/releases/tag/v0.2.3), 5 days ago) - An inflection engine for golang
+- [encode/httpx](https://github.com/encode/httpx) ([0.18.2](https://github.com/encode/httpx/releases/tag/0.18.2), 5 days ago) - A next generation HTTP client for Python. 🦋
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.33.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.33.0), 2 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
-- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 3 months ago) - nightscout web monitor
-- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 4 months ago) - 
+- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 4 months ago) - nightscout web monitor
+- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 5 months ago) - 
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 7 months ago) - MongoEngine flask extension with WTF model forms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
