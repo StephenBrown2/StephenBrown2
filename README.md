@@ -41,10 +41,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [williamjamir](https://github.com/williamjamir)
 - [x-xploit](https://github.com/x-xploit)
 - [mshafiey](https://github.com/mshafiey)
 - [bittin](https://github.com/bittin)
 - [avaitla](https://github.com/avaitla)
-- [hoenirvili](https://github.com/hoenirvili)
 
 
