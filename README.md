@@ -41,10 +41,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [Super45coder](https://github.com/Super45coder)
 - [silvesterwali](https://github.com/silvesterwali)
 - [Mahi-Kanakdhar](https://github.com/Mahi-Kanakdhar)
 - [nonunicorn](https://github.com/nonunicorn)
 - [Novusvetus](https://github.com/Novusvetus)
-- [williamjamir](https://github.com/williamjamir)
 
 
