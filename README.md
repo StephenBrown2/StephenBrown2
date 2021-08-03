@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.34.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.34.0), today) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
-- [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) ([v2.1.2](https://github.com/smagafurov/fastapi-jsonrpc/releases/tag/v2.1.2), 6 days ago) - JSON-RPC server based on fastapi
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.34.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.34.0), 1 day ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) ([v2.1.2](https://github.com/smagafurov/fastapi-jsonrpc/releases/tag/v2.1.2), 1 week ago) - JSON-RPC server based on fastapi
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.41.1](https://github.com/golangci/golangci-lint/releases/tag/v1.41.1), 1 month ago) - Fast linters Runner for Go
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.3](https://github.com/gobuffalo/flect/releases/tag/v0.2.3), 1 month ago) - An inflection engine for golang
 - [encode/httpx](https://github.com/encode/httpx) ([0.18.2](https://github.com/encode/httpx/releases/tag/0.18.2), 1 month ago) - A next generation HTTP client for Python. 🦋
