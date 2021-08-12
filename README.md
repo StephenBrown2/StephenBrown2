@@ -45,6 +45,6 @@ Here are some stats about me:
 - [silvesterwali](https://github.com/silvesterwali)
 - [Mahi-Kanakdhar](https://github.com/Mahi-Kanakdhar)
 - [nonunicorn](https://github.com/nonunicorn)
-- [Novusvetus](https://github.com/Novusvetus)
+- [williamjamir](https://github.com/williamjamir)
 
 
