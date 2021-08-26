@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (2 months ago)
+- [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (3 months ago)
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (3 months ago)
 - [StephenBrown2/dotfiles-yadm](https://github.com/StephenBrown2/dotfiles-yadm) - Dotfiles, managed by yadm (3 months ago)
 - [rockstor/rockstor-dev-env](https://github.com/rockstor/rockstor-dev-env) - Vagrant &amp; Ansible based developer environment intended to assist with initial source build setups. (3 months ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) ([0.19.0](https://github.com/encode/httpx/releases/tag/0.19.0), 6 days ago) - A next generation HTTP client for Python. 🦋
+- [encode/httpx](https://github.com/encode/httpx) ([0.19.0](https://github.com/encode/httpx/releases/tag/0.19.0), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.42.0](https://github.com/golangci/golangci-lint/releases/tag/v1.42.0), 1 week ago) - Fast linters Runner for Go
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.34.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.34.0), 3 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.3](https://github.com/gobuffalo/flect/releases/tag/v0.2.3), 2 months ago) - An inflection engine for golang
