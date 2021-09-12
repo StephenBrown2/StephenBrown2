@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (1 day ago)
+- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (2 days ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (1 week ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 week ago)
 - [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (3 months ago)
@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.42.1](https://github.com/golangci/golangci-lint/releases/tag/v1.42.1), 5 days ago) - Fast linters Runner for Go
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.35.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.35.1), 1 week ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.42.1](https://github.com/golangci/golangci-lint/releases/tag/v1.42.1), 6 days ago) - Fast linters Runner for Go
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.35.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.35.1), 2 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [encode/httpx](https://github.com/encode/httpx) ([0.19.0](https://github.com/encode/httpx/releases/tag/0.19.0), 3 weeks ago) - A next generation HTTP client for Python. 🦋
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.3](https://github.com/gobuffalo/flect/releases/tag/v0.2.3), 2 months ago) - An inflection engine for golang
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 4 months ago) - Data parsing and validation using Python type hints
