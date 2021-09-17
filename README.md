@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (6 days ago)
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (1 week ago)
+- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (1 week ago)
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (2 weeks ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 weeks ago)
 - [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (3 months ago)
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (3 months ago)
@@ -27,14 +27,14 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) ([1.0.0.beta0](https://github.com/encode/httpx/releases/tag/1.0.0.beta0), 2 days ago) - A next generation HTTP client for Python. 🦋
+- [encode/httpx](https://github.com/encode/httpx) ([1.0.0.beta0](https://github.com/encode/httpx/releases/tag/1.0.0.beta0), 3 days ago) - A next generation HTTP client for Python. 🦋
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.42.1](https://github.com/golangci/golangci-lint/releases/tag/v1.42.1), 1 week ago) - Fast linters Runner for Go
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.35.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.35.1), 2 weeks ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.3](https://github.com/gobuffalo/flect/releases/tag/v0.2.3), 3 months ago) - An inflection engine for golang
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 4 months ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.2](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.2), 6 months ago) - nightscout web monitor
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2), 7 months ago) - 
-- [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 9 months ago) - MongoEngine flask extension with WTF model forms support
+- [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 10 months ago) - MongoEngine flask extension with WTF model forms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
