@@ -17,9 +17,9 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (2 weeks ago)
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (3 weeks ago)
-- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (4 weeks ago)
+- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (3 weeks ago)
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (4 weeks ago)
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 month ago)
 - [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (4 months ago)
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (4 months ago)
 
