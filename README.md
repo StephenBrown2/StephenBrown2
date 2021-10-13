@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [encode/httpx](https://github.com/encode/httpx) ([0.20.0](https://github.com/encode/httpx/releases/tag/0.20.0), today) - A next generation HTTP client for Python. 🦋
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2.1), 6 days ago) - 
-- [encode/httpx](https://github.com/encode/httpx) ([1.0.0.beta0](https://github.com/encode/httpx/releases/tag/1.0.0.beta0), 4 weeks ago) - A next generation HTTP client for Python. 🦋
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.42.1](https://github.com/golangci/golangci-lint/releases/tag/v1.42.1), 1 month ago) - Fast linters Runner for Go
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.35.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.35.1), 1 month ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.3](https://github.com/gobuffalo/flect/releases/tag/v0.2.3), 3 months ago) - An inflection engine for golang
