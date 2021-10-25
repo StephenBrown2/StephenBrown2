@@ -20,14 +20,14 @@ Here are some stats about me:
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (1 week ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (1 month ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (1 month ago)
-- [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (4 months ago)
+- [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (5 months ago)
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way! (5 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.3](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.3), today) - nightscout web monitor
+- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.3](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.3), 1 day ago) - nightscout web monitor
 - [encode/httpx](https://github.com/encode/httpx) ([0.20.0](https://github.com/encode/httpx/releases/tag/0.20.0), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2.1), 2 weeks ago) - 
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.42.1](https://github.com/golangci/golangci-lint/releases/tag/v1.42.1), 1 month ago) - Fast linters Runner for Go
