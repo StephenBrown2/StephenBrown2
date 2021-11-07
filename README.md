@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (2 weeks ago)
+- [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (3 weeks ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (2 months ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 months ago)
 - [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (5 months ago)
@@ -27,13 +27,13 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 3 days ago) - An inflection engine for golang
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 3 days ago) - Fast linters Runner for Go
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.0), 5 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 4 days ago) - An inflection engine for golang
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 4 days ago) - Fast linters Runner for Go
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.0), 6 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.4](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.4), 1 week ago) - nightscout web monitor
 - [encode/httpx](https://github.com/encode/httpx) ([0.20.0](https://github.com/encode/httpx/releases/tag/0.20.0), 3 weeks ago) - A next generation HTTP client for Python. 🦋
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2.1), 1 month ago) - 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 5 months ago) - Data parsing and validation using Python type hints
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 6 months ago) - Data parsing and validation using Python type hints
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 11 months ago) - MongoEngine flask extension with WTF model forms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
