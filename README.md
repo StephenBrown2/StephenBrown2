@@ -27,10 +27,10 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 4 days ago) - An inflection engine for golang
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 4 days ago) - Fast linters Runner for Go
-- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.0), 6 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
-- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.4](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.4), 1 week ago) - nightscout web monitor
+- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 5 days ago) - An inflection engine for golang
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 5 days ago) - Fast linters Runner for Go
+- [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.0), 1 week ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.4](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.4), 2 weeks ago) - nightscout web monitor
 - [encode/httpx](https://github.com/encode/httpx) ([0.20.0](https://github.com/encode/httpx/releases/tag/0.20.0), 3 weeks ago) - A next generation HTTP client for Python. 🦋
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2.1), 1 month ago) - 
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 6 months ago) - Data parsing and validation using Python type hints
