@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 days ago)
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 week ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (3 weeks ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (2 months ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 months ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.1](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.1), 2 days ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.1](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.1), 3 days ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 1 week ago) - An inflection engine for golang
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 1 week ago) - Fast linters Runner for Go
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.0), 1 week ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
