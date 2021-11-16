@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) ([0.21.0](https://github.com/encode/httpx/releases/tag/0.21.0), 1 day ago) - A next generation HTTP client for Python. 🦋
+- [encode/httpx](https://github.com/encode/httpx) ([0.21.1](https://github.com/encode/httpx/releases/tag/0.21.1), today) - A next generation HTTP client for Python. 🦋
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 4 days ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.1](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.1), 1 week ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 1 week ago) - An inflection engine for golang
