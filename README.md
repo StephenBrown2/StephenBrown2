@@ -35,7 +35,6 @@ Here are some stats about me:
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 1 month ago) - Fast linters Runner for Go
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2.1), 2 months ago) - 
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.8.2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.8.2), 7 months ago) - Data parsing and validation using Python type hints
-- [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) ([v1.0.0](https://github.com/MongoEngine/flask-mongoengine/releases/tag/v1.0.0), 1 year ago) - MongoEngine flask extension with WTF model forms support
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
