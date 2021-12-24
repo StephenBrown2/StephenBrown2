@@ -21,15 +21,15 @@ Here are some stats about me:
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 month ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (2 months ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (3 months ago)
-- [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (6 months ago)
+- [nightscout/nightscout.github.io](https://github.com/nightscout/nightscout.github.io) - website, meta repo for whole project (7 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0a1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0a1), 5 days ago) - Data parsing and validation using Python type hints
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0a1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0a1), 6 days ago) - Data parsing and validation using Python type hints
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.3](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.3), 1 week ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.5](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.5), 1 week ago) - nightscout web monitor
+- [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.5](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.5), 2 weeks ago) - nightscout web monitor
 - [encode/httpx](https://github.com/encode/httpx) ([0.21.1](https://github.com/encode/httpx/releases/tag/0.21.1), 1 month ago) - A next generation HTTP client for Python. 🦋
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 1 month ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 1 month ago) - An inflection engine for golang
