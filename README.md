@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), today) - Data parsing and validation using Python type hints
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.4](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.4), 1 day ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0a2](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0a2), 1 week ago) - Data parsing and validation using Python type hints
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.5](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.5), 3 weeks ago) - nightscout web monitor
 - [encode/httpx](https://github.com/encode/httpx) ([0.21.1](https://github.com/encode/httpx/releases/tag/0.21.1), 1 month ago) - A next generation HTTP client for Python. 🦋
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 1 month ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
