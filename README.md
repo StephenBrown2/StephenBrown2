@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) ([0.21.2](https://github.com/encode/httpx/releases/tag/0.21.2), 1 day ago) - A next generation HTTP client for Python. 🦋
+- [encode/httpx](https://github.com/encode/httpx) ([0.21.3](https://github.com/encode/httpx/releases/tag/0.21.3), today) - A next generation HTTP client for Python. 🦋
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 6 days ago) - Data parsing and validation using Python type hints
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.4](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.4), 1 week ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) ([14.2.5](https://github.com/nightscout/cgm-remote-monitor/releases/tag/14.2.5), 3 weeks ago) - nightscout web monitor
