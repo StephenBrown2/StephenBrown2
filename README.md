@@ -34,7 +34,6 @@ Here are some stats about me:
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 1 month ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 2 months ago) - An inflection engine for golang
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 2 months ago) - Fast linters Runner for Go
-- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) ([2.8.2.1](https://github.com/nightscout/AndroidAPS/releases/tag/2.8.2.1), 3 months ago) - 
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
