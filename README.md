@@ -27,9 +27,9 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.4.1](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.4.1), today) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [encode/httpx](https://github.com/encode/httpx) ([0.21.3](https://github.com/encode/httpx/releases/tag/0.21.3), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 2 weeks ago) - Data parsing and validation using Python type hints
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.4](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.4), 2 weeks ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 2 months ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 2 months ago) - An inflection engine for golang
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.43.0](https://github.com/golangci/golangci-lint/releases/tag/v1.43.0), 2 months ago) - Fast linters Runner for Go
