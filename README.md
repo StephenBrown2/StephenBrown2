@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.5.2](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.5.2), today) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.0](https://github.com/golangci/golangci-lint/releases/tag/v1.44.0), today) - Fast linters Runner for Go
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.5.2](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.5.2), 1 day ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.0](https://github.com/golangci/golangci-lint/releases/tag/v1.44.0), 1 day ago) - Fast linters Runner for Go
 - [encode/httpx](https://github.com/encode/httpx) ([0.21.3](https://github.com/encode/httpx/releases/tag/0.21.3), 2 weeks ago) - A next generation HTTP client for Python. 🦋
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 3 weeks ago) - Data parsing and validation using Python type hints
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 2 months ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
