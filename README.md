@@ -32,7 +32,6 @@ Here are some stats about me:
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.0](https://github.com/golangci/golangci-lint/releases/tag/v1.44.0), 5 days ago) - Fast linters Runner for Go
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 1 month ago) - Data parsing and validation using Python type hints
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 2 months ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
-- [gobuffalo/flect](https://github.com/gobuffalo/flect) ([v0.2.4](https://github.com/gobuffalo/flect/releases/tag/v0.2.4), 2 months ago) - An inflection engine for golang
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
