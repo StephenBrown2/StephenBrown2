@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (today)
-- [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (4 weeks ago)
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 day ago)
+- [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (1 month ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 months ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (3 months ago)
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (5 months ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [encode/httpx](https://github.com/encode/httpx) ([0.22.0](https://github.com/encode/httpx/releases/tag/0.22.0), 6 days ago) - A next generation HTTP client for Python. 🦋
+- [encode/httpx](https://github.com/encode/httpx) ([0.22.0](https://github.com/encode/httpx/releases/tag/0.22.0), 1 week ago) - A next generation HTTP client for Python. 🦋
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.5.2](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.5.2), 1 week ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.0](https://github.com/golangci/golangci-lint/releases/tag/v1.44.0), 1 week ago) - Fast linters Runner for Go
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 1 month ago) - Data parsing and validation using Python type hints
