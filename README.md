@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 days ago)
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 week ago)
 - [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (1 month ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (2 months ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (3 months ago)
@@ -27,9 +27,9 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.8](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.8), today) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.8](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.8), 1 day ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [encode/httpx](https://github.com/encode/httpx) ([0.22.0](https://github.com/encode/httpx/releases/tag/0.22.0), 1 week ago) - A next generation HTTP client for Python. 🦋
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.0](https://github.com/golangci/golangci-lint/releases/tag/v1.44.0), 1 week ago) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.0](https://github.com/golangci/golangci-lint/releases/tag/v1.44.0), 2 weeks ago) - Fast linters Runner for Go
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 1 month ago) - Data parsing and validation using Python type hints
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.36.1](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.36.1), 2 months ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 
