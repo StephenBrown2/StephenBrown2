@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.2](https://github.com/golangci/golangci-lint/releases/tag/v1.44.2), 6 days ago) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.44.2](https://github.com/golangci/golangci-lint/releases/tag/v1.44.2), 1 week ago) - Fast linters Runner for Go
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.0.8](https://github.com/TandoorRecipes/recipes/releases/tag/1.0.8), 2 weeks ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [encode/httpx](https://github.com/encode/httpx) ([0.22.0](https://github.com/encode/httpx/releases/tag/0.22.0), 4 weeks ago) - A next generation HTTP client for Python. 🦋
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 1 month ago) - Data parsing and validation using Python type hints
