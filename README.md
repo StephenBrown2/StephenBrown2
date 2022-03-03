@@ -39,10 +39,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [danno859](https://github.com/danno859)
 - [mattijs](https://github.com/mattijs)
 - [Super45coder](https://github.com/Super45coder)
 - [silvesterwali](https://github.com/silvesterwali)
-- [Mahi-Kanakdhar](https://github.com/Mahi-Kanakdhar)
 
 
