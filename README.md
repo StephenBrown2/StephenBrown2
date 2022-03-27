@@ -27,10 +27,10 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.45.2](https://github.com/golangci/golangci-lint/releases/tag/v1.45.2), 2 days ago) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.45.2](https://github.com/golangci/golangci-lint/releases/tag/v1.45.2), 3 days ago) - Fast linters Runner for Go
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.37.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.37.0), 1 week ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.1.4](https://github.com/TandoorRecipes/recipes/releases/tag/1.1.4), 1 week ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [encode/httpx](https://github.com/encode/httpx) ([0.22.0](https://github.com/encode/httpx/releases/tag/0.22.0), 1 month ago) - A next generation HTTP client for Python. 🦋
+- [encode/httpx](https://github.com/encode/httpx) ([0.22.0](https://github.com/encode/httpx/releases/tag/0.22.0), 2 months ago) - A next generation HTTP client for Python. 🦋
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.0](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.0), 2 months ago) - Data parsing and validation using Python type hints
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ([v4.1.3](https://github.com/dimsemenov/PhotoSwipe/releases/tag/v4.1.3), 3 years ago) - JavaScript image gallery for mobile and desktop, modular, framework independent
 
