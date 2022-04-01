@@ -21,13 +21,13 @@ Here are some stats about me:
 - [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (2 months ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (4 months ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (5 months ago)
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (6 months ago)
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (7 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ([v5.2.2](https://github.com/dimsemenov/PhotoSwipe/releases/tag/v5.2.2), 3 days ago) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ([v5.2.2](https://github.com/dimsemenov/PhotoSwipe/releases/tag/v5.2.2), 4 days ago) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.45.2](https://github.com/golangci/golangci-lint/releases/tag/v1.45.2), 1 week ago) - Fast linters Runner for Go
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.37.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.37.0), 1 week ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.1.4](https://github.com/TandoorRecipes/recipes/releases/tag/1.1.4), 2 weeks ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
