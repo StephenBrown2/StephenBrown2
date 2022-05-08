@@ -37,7 +37,7 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
-- [acidburn0zzz](https://github.com/acidburn0zzz)
+- [Acidburn0zzz](https://github.com/Acidburn0zzz)
 - [Swifilaboroka](https://github.com/Swifilaboroka)
 - [danno859](https://github.com/danno859)
 - [mattijs](https://github.com/mattijs)
