@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.1), 3 days ago) - Data parsing and validation using Python type hints
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.2.6](https://github.com/TandoorRecipes/recipes/releases/tag/1.2.6), 4 days ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.1), 4 days ago) - Data parsing and validation using Python type hints
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.2.6](https://github.com/TandoorRecipes/recipes/releases/tag/1.2.6), 5 days ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) ([v2.37.0](https://github.com/toolkit-for-ynab/toolkit-for-ynab/releases/tag/v2.37.0), 2 months ago) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 
 #### ❤️ These awesome people sponsor me (thank you!)
