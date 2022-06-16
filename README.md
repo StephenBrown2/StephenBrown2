@@ -28,7 +28,7 @@ Here are some stats about me:
 #### 🔭 Latest releases I've contributed to
 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.2.7](https://github.com/TandoorRecipes/recipes/releases/tag/1.2.7), 3 weeks ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.1), 3 weeks ago) - Data parsing and validation using Python type hints
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.1), 4 weeks ago) - Data parsing and validation using Python type hints
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
