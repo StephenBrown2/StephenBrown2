@@ -21,14 +21,14 @@ Here are some stats about me:
 - [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (7 months ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (8 months ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (9 months ago)
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints (11 months ago)
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints (11 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.3.3](https://github.com/TandoorRecipes/recipes/releases/tag/1.3.3), 1 week ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) ([v1.9.1](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.1), 2 months ago) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) ([v1.9.1](https://github.com/pydantic/pydantic/releases/tag/v1.9.1), 2 months ago) - Data parsing and validation using Python type hints
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
