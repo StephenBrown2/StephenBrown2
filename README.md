@@ -18,7 +18,7 @@ Here are some stats about me:
 #### 👷 Check out what I've recently contributed to
 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (7 months ago)
-- [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (7 months ago)
+- [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (8 months ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (9 months ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (10 months ago)
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints (1 year ago)
@@ -27,8 +27,8 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) ([v1.10.0](https://github.com/pydantic/pydantic/releases/tag/v1.10.0), today) - Data parsing and validation using Python type hints
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.3.3](https://github.com/TandoorRecipes/recipes/releases/tag/1.3.3), 4 weeks ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) ([v1.10.0](https://github.com/pydantic/pydantic/releases/tag/v1.10.0), 1 day ago) - Data parsing and validation using Python type hints
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.3.3](https://github.com/TandoorRecipes/recipes/releases/tag/1.3.3), 1 month ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
