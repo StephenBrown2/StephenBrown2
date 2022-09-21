@@ -26,7 +26,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.3.3](https://github.com/TandoorRecipes/recipes/releases/tag/1.3.3), 1 month ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.4.0](https://github.com/TandoorRecipes/recipes/releases/tag/1.4.0), today) - Application for managing recipes, planning meals, building shopping lists and much much more!
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
