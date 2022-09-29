@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (7 months ago)
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (8 months ago)
 - [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (8 months ago)
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links. (10 months ago)
 - [StephenBrown2/tezlab-export-sc](https://github.com/StephenBrown2/tezlab-export-sc) - Parse Tezlab Export files to get first visited date for superchargers (11 months ago)
@@ -26,7 +26,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.4.3](https://github.com/TandoorRecipes/recipes/releases/tag/1.4.3), 1 day ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.4.3](https://github.com/TandoorRecipes/recipes/releases/tag/1.4.3), 2 days ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
