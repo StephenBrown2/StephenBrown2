@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (3 days ago)
+- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (4 days ago)
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (2 weeks ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (9 months ago)
 - [StephenBrown2/gotime](https://github.com/StephenBrown2/gotime) - Test and manipulate Go&#39;s Time formatting. Originally at gotime.agardner.me (10 months ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 3 days ago) - Linux Distributions Timeline
+- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 4 days ago) - Linux Distributions Timeline
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.4.4](https://github.com/TandoorRecipes/recipes/releases/tag/1.4.4), 1 month ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.22.1](https://github.com/JnyJny/busylight/releases/tag/0.22.1), 1 month ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
 
