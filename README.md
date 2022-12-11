@@ -29,7 +29,7 @@ Here are some stats about me:
 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.4.5](https://github.com/TandoorRecipes/recipes/releases/tag/1.4.5), 1 month ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 1 month ago) - Linux Distributions Timeline
-- [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.22.1](https://github.com/JnyJny/busylight/releases/tag/0.22.1), 2 months ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
+- [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.22.1](https://github.com/JnyJny/busylight/releases/tag/0.22.1), 3 months ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
