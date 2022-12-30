@@ -19,7 +19,7 @@ Here are some stats about me:
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (2 weeks ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 month ago)
-- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (1 month ago)
+- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (2 months ago)
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (2 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (11 months ago)
 
@@ -28,7 +28,7 @@ Here are some stats about me:
 #### 🔭 Latest releases I've contributed to
 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ([1.4.5](https://github.com/TandoorRecipes/recipes/releases/tag/1.4.5), 1 month ago) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 1 month ago) - Linux Distributions Timeline
+- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 2 months ago) - Linux Distributions Timeline
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.22.1](https://github.com/JnyJny/busylight/releases/tag/0.22.1), 3 months ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
 
 #### ❤️ These awesome people sponsor me (thank you!)
