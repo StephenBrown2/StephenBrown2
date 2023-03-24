@@ -26,7 +26,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.26.0](https://github.com/JnyJny/busylight/releases/tag/0.26.0), 3 weeks ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
+- [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.26.0](https://github.com/JnyJny/busylight/releases/tag/0.26.0), 4 weeks ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 4 months ago) - Linux Distributions Timeline
 
 #### ❤️ These awesome people sponsor me (thank you!)
