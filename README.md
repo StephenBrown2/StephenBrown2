@@ -19,7 +19,7 @@ Here are some stats about me:
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (3 months ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (4 months ago)
-- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (4 months ago)
+- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (5 months ago)
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (5 months ago)
 
 
@@ -27,7 +27,7 @@ Here are some stats about me:
 #### 🔭 Latest releases I've contributed to
 
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.26.0](https://github.com/JnyJny/busylight/releases/tag/0.26.0), 1 month ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
-- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 4 months ago) - Linux Distributions Timeline
+- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 5 months ago) - Linux Distributions Timeline
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
