@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (1 week ago)
+- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (2 weeks ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (4 months ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (5 months ago)
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (5 months ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.8](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.8), today) - Packer plugin for VMware Builder
+- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.8](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.8), 1 day ago) - Packer plugin for VMware Builder
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.26.0](https://github.com/JnyJny/busylight/releases/tag/0.26.0), 1 month ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 5 months ago) - Linux Distributions Timeline
 
