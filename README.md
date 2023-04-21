@@ -37,10 +37,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [owenlamont](https://github.com/owenlamont)
 - [Pierrot-l3-F0U](https://github.com/Pierrot-l3-F0U)
 - [alfiomy](https://github.com/alfiomy)
 - [Acidburn0zzz](https://github.com/Acidburn0zzz)
 - [Swifilaboroka](https://github.com/Swifilaboroka)
-- [mattijs](https://github.com/mattijs)
 
 
