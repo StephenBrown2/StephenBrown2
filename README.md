@@ -42,6 +42,6 @@ Here are some stats about me:
 - [owenlamont](https://github.com/owenlamont)
 - [Pierrot-l3-F0U](https://github.com/Pierrot-l3-F0U)
 - [alfiomy](https://github.com/alfiomy)
-- [Acidburn0zzz](https://github.com/Acidburn0zzz)
+- [acidburn0zzz](https://github.com/acidburn0zzz)
 
 
