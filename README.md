@@ -38,10 +38,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [SeshatCZ](https://github.com/SeshatCZ)
 - [Teun-vdB](https://github.com/Teun-vdB)
 - [owenlamont](https://github.com/owenlamont)
 - [Pierrot-l3-F0U](https://github.com/Pierrot-l3-F0U)
 - [alfiomy](https://github.com/alfiomy)
-- [acidburn0zzz](https://github.com/acidburn0zzz)
 
 
