@@ -17,17 +17,18 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (today)
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers (1 month ago)
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (2 months ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (6 months ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (7 months ago)
-- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline (7 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.5.3](https://github.com/ashanbrown/forbidigo/releases/tag/v1.5.3), 2 weeks ago) - Go linter for forbidding identifiers
+- [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.2](https://github.com/mgechev/revive/releases/tag/v1.3.2), 1 month ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.8](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.8), 2 months ago) - Packer plugin for VMware Builder
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.26.0](https://github.com/JnyJny/busylight/releases/tag/0.26.0), 4 months ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) ([v22.10](https://github.com/FabioLolix/LinuxTimeline/releases/tag/v22.10), 7 months ago) - Linux Distributions Timeline
