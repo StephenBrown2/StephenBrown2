@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (5 days ago)
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (6 days ago)
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers (2 months ago)
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (2 months ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (6 months ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.5.3](https://github.com/ashanbrown/forbidigo/releases/tag/v1.5.3), 2 weeks ago) - Go linter for forbidding identifiers
+- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.5.3](https://github.com/ashanbrown/forbidigo/releases/tag/v1.5.3), 3 weeks ago) - Go linter for forbidding identifiers
 - [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.2](https://github.com/mgechev/revive/releases/tag/v1.3.2), 1 month ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.8](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.8), 2 months ago) - Packer plugin for VMware Builder
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.26.0](https://github.com/JnyJny/busylight/releases/tag/0.26.0), 4 months ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
