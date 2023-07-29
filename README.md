@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [rockstor/rockon-validator](https://github.com/rockstor/rockon-validator) - Donated by @StephenBrown2 - a Rockon validator written in Go. (4 days ago)
+- [rockstor/rockon-validator](https://github.com/rockstor/rockon-validator) - Donated by @StephenBrown2 - a Rockon validator written in Go. (5 days ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 month ago)
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers (3 months ago)
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (3 months ago)
@@ -35,7 +35,7 @@ Here are some stats about me:
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [pawamoy](https://github.com/pawamoy) (2 years ago)
+- [pawamoy](https://github.com/pawamoy) (3 years ago)
 
 #### 👯 Check out some of my recent followers
 
