@@ -17,11 +17,11 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant (3 days ago)
 - [rockstor/rockon-validator](https://github.com/rockstor/rockon-validator) - Donated by @StephenBrown2 - a Rockon validator written in Go. (4 weeks ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 month ago)
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers (3 months ago)
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (4 months ago)
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (8 months ago)
 
 
 
