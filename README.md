@@ -19,7 +19,7 @@ Here are some stats about me:
 
 - [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant (1 month ago)
 - [rockstor/rockon-validator](https://github.com/rockstor/rockon-validator) - Donated by @StephenBrown2 - a Rockon validator written in Go. (1 month ago)
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (2 months ago)
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (3 months ago)
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers (4 months ago)
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (5 months ago)
 
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.4](https://github.com/mgechev/revive/releases/tag/v1.3.4), 6 days ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.4](https://github.com/mgechev/revive/releases/tag/v1.3.4), 1 week ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.9](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.9), 1 month ago) - Packer plugin for VMware Builder
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.6.0](https://github.com/ashanbrown/forbidigo/releases/tag/v1.6.0), 2 months ago) - Go linter for forbidding identifiers
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) ([0.26.0](https://github.com/JnyJny/busylight/releases/tag/0.26.0), 7 months ago) - Control USB connected presence lights from multiple vendors via the command-line or web API.
