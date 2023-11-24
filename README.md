@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.10](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.10), 1 month ago) - Packer plugin for VMware Builder
+- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.10](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.10), 2 months ago) - Packer plugin for VMware Builder
 - [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.4](https://github.com/mgechev/revive/releases/tag/v1.3.4), 2 months ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.6.0](https://github.com/ashanbrown/forbidigo/releases/tag/v1.6.0), 4 months ago) - Go linter for forbidding identifiers
 
