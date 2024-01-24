@@ -20,14 +20,14 @@ Here are some stats about me:
 - [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant (5 months ago)
 - [rockstor/rockon-validator](https://github.com/rockstor/rockon-validator) - Donated by @StephenBrown2 - a Rockon validator written in Go. (5 months ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (7 months ago)
-- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers (8 months ago)
+- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers (9 months ago)
 - [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) - Packer plugin for VMware Builder (9 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.11](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.11), 6 days ago) - Packer plugin for VMware Builder
+- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.11](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.11), 1 week ago) - Packer plugin for VMware Builder
 - [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.6](https://github.com/mgechev/revive/releases/tag/v1.3.6), 2 weeks ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.6.0](https://github.com/ashanbrown/forbidigo/releases/tag/v1.6.0), 6 months ago) - Go linter for forbidding identifiers
 
