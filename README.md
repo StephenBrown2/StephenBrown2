@@ -29,7 +29,6 @@ Here are some stats about me:
 
 - [home-assistant/core](https://github.com/home-assistant/core) ([2024.4.1](https://github.com/home-assistant/core/releases/tag/2024.4.1), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.7](https://github.com/mgechev/revive/releases/tag/v1.3.7), 1 month ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-- [hashicorp/packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) ([v1.0.11](https://github.com/hashicorp/packer-plugin-vmware/releases/tag/v1.0.11), 2 months ago) - Packer plugin for VMware Builder
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.6.0](https://github.com/ashanbrown/forbidigo/releases/tag/v1.6.0), 9 months ago) - Go linter for forbidding identifiers
 
 #### ❤️ These awesome people sponsor me (thank you!)
