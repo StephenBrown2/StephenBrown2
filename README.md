@@ -29,7 +29,6 @@ Here are some stats about me:
 
 - [home-assistant/core](https://github.com/home-assistant/core) ([2024.5.0b3](https://github.com/home-assistant/core/releases/tag/2024.5.0b3), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.7](https://github.com/mgechev/revive/releases/tag/v1.3.7), 2 months ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) ([v1.6.0](https://github.com/ashanbrown/forbidigo/releases/tag/v1.6.0), 10 months ago) - Go linter for forbidding identifiers
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
