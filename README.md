@@ -21,13 +21,13 @@ Here are some stats about me:
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 months ago)
 - [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant (9 months ago)
 - [rockstor/rockon-validator](https://github.com/rockstor/rockon-validator) - Donated by @StephenBrown2 - a Rockon validator written in Go. (9 months ago)
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (10 months ago)
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (11 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2024.5.4](https://github.com/home-assistant/core/releases/tag/2024.5.4), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2024.5.4](https://github.com/home-assistant/core/releases/tag/2024.5.4), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.7](https://github.com/mgechev/revive/releases/tag/v1.3.7), 3 months ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 
 #### ❤️ These awesome people sponsor me (thank you!)
