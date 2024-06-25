@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2024.6.4](https://github.com/home-assistant/core/releases/tag/2024.6.4), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2024.6.4](https://github.com/home-assistant/core/releases/tag/2024.6.4), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mgechev/revive](https://github.com/mgechev/revive) ([v1.3.7](https://github.com/mgechev/revive/releases/tag/v1.3.7), 4 months ago) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 
 #### ❤️ These awesome people sponsor me (thank you!)
