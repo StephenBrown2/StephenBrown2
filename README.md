@@ -19,14 +19,14 @@ Here are some stats about me:
 
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (4 months ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (5 months ago)
-- [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant (10 months ago)
+- [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant (11 months ago)
 - [rockstor/rockon-validator](https://github.com/rockstor/rockon-validator) - Donated by @StephenBrown2 - a Rockon validator written in Go. (11 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2024.7.2](https://github.com/home-assistant/core/releases/tag/2024.7.2), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2024.7.2](https://github.com/home-assistant/core/releases/tag/2024.7.2), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
