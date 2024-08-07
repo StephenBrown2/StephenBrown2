@@ -25,7 +25,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2024.8.0b6](https://github.com/home-assistant/core/releases/tag/2024.8.0b6), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2024.8.0b7](https://github.com/home-assistant/core/releases/tag/2024.8.0b7), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
