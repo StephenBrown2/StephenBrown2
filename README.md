@@ -32,10 +32,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [chipnertkj](https://github.com/chipnertkj)
 - [mu5md](https://github.com/mu5md)
 - [cassimahmedattia](https://github.com/cassimahmedattia)
 - [eliaskaberia](https://github.com/eliaskaberia)
 - [SeshatCZ](https://github.com/SeshatCZ)
-- [owenlamont](https://github.com/owenlamont)
 
 
