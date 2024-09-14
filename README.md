@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) - CLI tool for working with Red Hat Subscription Manager things (4 weeks ago)
+- [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) - CLI tool for working with Red Hat Subscription Manager things (1 month ago)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (7 months ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (7 months ago)
 
