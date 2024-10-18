@@ -25,7 +25,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2024.10.2](https://github.com/home-assistant/core/releases/tag/2024.10.2), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2024.10.2](https://github.com/home-assistant/core/releases/tag/2024.10.2), 1 week ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) ([v0.1.3](https://github.com/flynshue/rhsm-cli/releases/tag/v0.1.3), 2 years ago) - CLI tool for working with Red Hat Subscription Manager things
 
 #### ❤️ These awesome people sponsor me (thank you!)
