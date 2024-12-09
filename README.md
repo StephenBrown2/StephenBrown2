@@ -19,13 +19,13 @@ Here are some stats about me:
 
 - [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) - CLI tool for working with Red Hat Subscription Manager things (3 months ago)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (9 months ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (9 months ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (10 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2024.12.1](https://github.com/home-assistant/core/releases/tag/2024.12.1), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2024.12.1](https://github.com/home-assistant/core/releases/tag/2024.12.1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) ([v0.1.3](https://github.com/flynshue/rhsm-cli/releases/tag/v0.1.3), 2 years ago) - CLI tool for working with Red Hat Subscription Manager things
 
 #### ❤️ These awesome people sponsor me (thank you!)
