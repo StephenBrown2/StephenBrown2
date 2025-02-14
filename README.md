@@ -33,10 +33,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [missAnneThorpe](https://github.com/missAnneThorpe)
 - [prajeshmadhavi](https://github.com/prajeshmadhavi)
 - [Jasim-BinUmar](https://github.com/Jasim-BinUmar)
 - [chipnertkj](https://github.com/chipnertkj)
 - [mu5md](https://github.com/mu5md)
-- [cassimahmedattia](https://github.com/cassimahmedattia)
 
 
