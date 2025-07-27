@@ -34,10 +34,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [WestLee95](https://github.com/WestLee95)
 - [standardgalactic](https://github.com/standardgalactic)
 - [oliveibb](https://github.com/oliveibb)
 - [missAnneThorpe](https://github.com/missAnneThorpe)
 - [prajeshmadhavi](https://github.com/prajeshmadhavi)
-- [Jasim-BinUmar](https://github.com/Jasim-BinUmar)
 
 
