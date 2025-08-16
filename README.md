@@ -19,7 +19,7 @@ Here are some stats about me:
 
 - [StephenBrown2/fold-budget](https://github.com/StephenBrown2/fold-budget) - Tool to convert Fold CSV statements to a standard budget import format, including memos (2 weeks ago)
 - [StephenBrown2/pamparser](https://github.com/StephenBrown2/pamparser) - 99% vibe-coded PAM config file manipulation library in golang. (2 weeks ago)
-- [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (2 weeks ago)
+- [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (3 weeks ago)
 - [StephenBrown2/jira-deps](https://github.com/StephenBrown2/jira-deps) - Tool to graph dependencies among jira tickets using mermaid syntax (1 month ago)
 - [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) - CLI tool for working with Red Hat Subscription Manager things (6 months ago)
 
