@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (2 days ago)
+- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 day ago)
 - [StephenBrown2/jira-deps](https://github.com/StephenBrown2/jira-deps) - Tool to graph dependencies among jira tickets using mermaid syntax (6 days ago)
 - [StephenBrown2/fold-budget](https://github.com/StephenBrown2/fold-budget) - Tool to convert Fold CSV statements to a standard budget import format, including memos (1 month ago)
 - [StephenBrown2/pamparser](https://github.com/StephenBrown2/pamparser) - 99% vibe-coded PAM config file manipulation library in golang. (1 month ago)
