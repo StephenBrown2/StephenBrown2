@@ -20,14 +20,14 @@ Here are some stats about me:
 - [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (1 week ago)
 - [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (1 week ago)
 - [StephenBrown2/ynab-to-actual-goals](https://github.com/StephenBrown2/ynab-to-actual-goals) -  (1 week ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
 - [StephenBrown2/merge-account-number-name](https://github.com/StephenBrown2/merge-account-number-name) -  (2 weeks ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v25.10.0](https://github.com/actualbudget/actual/releases/tag/v25.10.0), today) - A local-first personal finance app
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v25.10.0](https://github.com/actualbudget/actual/releases/tag/v25.10.0), 1 day ago) - A local-first personal finance app
 - [StephenBrown2/merge-account-number-name](https://github.com/StephenBrown2/merge-account-number-name) ([v0.0.1](https://github.com/StephenBrown2/merge-account-number-name/releases/tag/v0.0.1), 2 weeks ago) - 
 - [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) ([v0.1.3](https://github.com/flynshue/rhsm-cli/releases/tag/v0.1.3), 3 years ago) - CLI tool for working with Red Hat Subscription Manager things
 
