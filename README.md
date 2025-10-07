@@ -17,9 +17,9 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (today)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (today)
 - [StephenBrown2/fold-budget](https://github.com/StephenBrown2/fold-budget) - Tool to convert Fold CSV statements to a standard budget import format, including memos (1 day ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 days ago)
-- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (1 week ago)
 - [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (1 week ago)
 - [StephenBrown2/ynab-to-actual-goals](https://github.com/StephenBrown2/ynab-to-actual-goals) -  (1 week ago)
 
