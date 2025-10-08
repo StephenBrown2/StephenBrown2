@@ -17,9 +17,9 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (today)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (today)
-- [StephenBrown2/fold-budget](https://github.com/StephenBrown2/fold-budget) - Tool to convert Fold CSV statements to a standard budget import format, including memos (1 day ago)
+- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (1 day ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 day ago)
+- [StephenBrown2/fold-budget](https://github.com/StephenBrown2/fold-budget) - Tool to convert Fold CSV statements to a standard budget import format, including memos (2 days ago)
 - [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (1 week ago)
 - [StephenBrown2/ynab-to-actual-goals](https://github.com/StephenBrown2/ynab-to-actual-goals) -  (1 week ago)
 
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v25.10.0](https://github.com/actualbudget/actual/releases/tag/v25.10.0), 5 days ago) - A local-first personal finance app
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v25.10.0](https://github.com/actualbudget/actual/releases/tag/v25.10.0), 6 days ago) - A local-first personal finance app
 - [StephenBrown2/merge-account-number-name](https://github.com/StephenBrown2/merge-account-number-name) ([v0.0.1](https://github.com/StephenBrown2/merge-account-number-name/releases/tag/v0.0.1), 3 weeks ago) - 
 - [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) ([v0.1.3](https://github.com/flynshue/rhsm-cli/releases/tag/v0.1.3), 3 years ago) - CLI tool for working with Red Hat Subscription Manager things
 
