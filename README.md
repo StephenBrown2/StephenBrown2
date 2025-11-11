@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (5 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (6 days ago)
 - [actualbudget/docs](https://github.com/actualbudget/docs) - Main website and documentation for Actual Budget (1 week ago)
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) - A simple tool to export YNAB budget json (3 weeks ago)
 - [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (1 month ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v25.11.0](https://github.com/actualbudget/actual/releases/tag/v25.11.0), 6 days ago) - A local-first personal finance app
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v25.11.0](https://github.com/actualbudget/actual/releases/tag/v25.11.0), 1 week ago) - A local-first personal finance app
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.4](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.4), 3 weeks ago) - A simple tool to export YNAB budget json
 - [StephenBrown2/merge-account-number-name](https://github.com/StephenBrown2/merge-account-number-name) ([v0.0.1](https://github.com/StephenBrown2/merge-account-number-name/releases/tag/v0.0.1), 1 month ago) - 
 - [flynshue/rhsm-cli](https://github.com/flynshue/rhsm-cli) ([v0.1.3](https://github.com/flynshue/rhsm-cli/releases/tag/v0.1.3), 3 years ago) - CLI tool for working with Red Hat Subscription Manager things
