@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
 - [StephenBrown2/supercharger_bingo](https://github.com/StephenBrown2/supercharger_bingo) - Local first Flutter app to allow check-ins to Tesla Supercharger locations (3 weeks ago)
 - [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (4 weeks ago)
 - [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (1 month ago)
