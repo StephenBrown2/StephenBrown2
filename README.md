@@ -37,10 +37,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [sizzlebop](https://github.com/sizzlebop)
 - [mikechiloane](https://github.com/mikechiloane)
 - [standardgalactic](https://github.com/standardgalactic)
 - [oliveibb](https://github.com/oliveibb)
 - [missAnneThorpe](https://github.com/missAnneThorpe)
-- [prajeshmadhavi](https://github.com/prajeshmadhavi)
 
 
