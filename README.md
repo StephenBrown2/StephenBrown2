@@ -21,7 +21,7 @@ Here are some stats about me:
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
 - [StephenBrown2/actual-wallos-import](https://github.com/StephenBrown2/actual-wallos-import) - Script to import wallos subscriptions into Actual Budget Schedules (2 weeks ago)
 - [StephenBrown2/supercharger_bingo](https://github.com/StephenBrown2/supercharger_bingo) - Local first Flutter app to allow check-ins to Tesla Supercharger locations (1 month ago)
-- [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (1 month ago)
+- [StephenBrown2/podstats](https://github.com/StephenBrown2/podstats) - Vibe-coded Podcast OPML parser and prioritizer (2 months ago)
 
 
 
