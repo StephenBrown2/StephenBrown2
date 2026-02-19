@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (2 days ago)
+- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (3 days ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) - A simple tool to export YNAB budget json (1 month ago)
 - [StephenBrown2/actual-wallos-import](https://github.com/StephenBrown2/actual-wallos-import) - Script to import wallos subscriptions into Actual Budget Schedules (1 month ago)
@@ -33,7 +33,7 @@ Here are some stats about me:
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [zotabee](https://github.com/zotabee) (1 week ago)
+- [zotabee](https://github.com/zotabee) (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
