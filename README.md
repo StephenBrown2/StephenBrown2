@@ -17,9 +17,9 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (today)
-- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (4 days ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
+- [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (1 day ago)
+- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (5 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) - A simple tool to export YNAB budget json (1 month ago)
 - [StephenBrown2/actual-wallos-import](https://github.com/StephenBrown2/actual-wallos-import) - Script to import wallos subscriptions into Actual Budget Schedules (1 month ago)
 
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.2.1](https://github.com/actualbudget/actual/releases/tag/v26.2.1), 4 days ago) - A local-first personal finance app
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.2.1](https://github.com/actualbudget/actual/releases/tag/v26.2.1), 5 days ago) - A local-first personal finance app
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 1 month ago) - A simple tool to export YNAB budget json
 - [StephenBrown2/merge-account-number-name](https://github.com/StephenBrown2/merge-account-number-name) ([v0.0.1](https://github.com/StephenBrown2/merge-account-number-name/releases/tag/v0.0.1), 5 months ago) - 
 
