@@ -38,9 +38,9 @@ Here are some stats about me:
 #### 👯 Check out some of my recent followers
 
 - [nathweetwel-star](https://github.com/nathweetwel-star)
-- [peterruler](https://github.com/peterruler)
 - [zotabee](https://github.com/zotabee)
 - [sizzlebop](https://github.com/sizzlebop)
 - [standardgalactic](https://github.com/standardgalactic)
+- [oliveibb](https://github.com/oliveibb)
 
 
