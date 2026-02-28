@@ -37,10 +37,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [PhysShell](https://github.com/PhysShell)
 - [nathweetwel-star](https://github.com/nathweetwel-star)
 - [zotabee](https://github.com/zotabee)
 - [sizzlebop](https://github.com/sizzlebop)
 - [standardgalactic](https://github.com/standardgalactic)
-- [oliveibb](https://github.com/oliveibb)
 
 
