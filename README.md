@@ -18,8 +18,8 @@ Here are some stats about me:
 #### 👷 Check out what I've recently contributed to
 
 - [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (1 week ago)
-- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (1 week ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (4 weeks ago)
+- [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (2 weeks ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 month ago)
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) - A simple tool to export YNAB budget json (1 month ago)
 - [StephenBrown2/actual-wallos-import](https://github.com/StephenBrown2/actual-wallos-import) - Script to import wallos subscriptions into Actual Budget Schedules (2 months ago)
 
@@ -27,13 +27,12 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.3.0](https://github.com/actualbudget/actual/releases/tag/v26.3.0), 4 days ago) - A local-first personal finance app
-- [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 1 month ago) - A simple tool to export YNAB budget json
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.3.0](https://github.com/actualbudget/actual/releases/tag/v26.3.0), 5 days ago) - A local-first personal finance app
+- [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 2 months ago) - A simple tool to export YNAB budget json
 - [StephenBrown2/merge-account-number-name](https://github.com/StephenBrown2/merge-account-number-name) ([v0.0.1](https://github.com/StephenBrown2/merge-account-number-name/releases/tag/v0.0.1), 5 months ago) - 
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [zotabee](https://github.com/zotabee) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
