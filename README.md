@@ -36,10 +36,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [Aliipou](https://github.com/Aliipou)
 - [jayDevCodes](https://github.com/jayDevCodes)
 - [PhysShell](https://github.com/PhysShell)
 - [nathweetwel-star](https://github.com/nathweetwel-star)
 - [zotabee](https://github.com/zotabee)
-- [sizzlebop](https://github.com/sizzlebop)
 
 
