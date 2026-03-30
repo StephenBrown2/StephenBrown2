@@ -36,10 +36,10 @@ Here are some stats about me:
 
 #### 👯 Check out some of my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
 - [Aliipou](https://github.com/Aliipou)
 - [jayDevCodes](https://github.com/jayDevCodes)
 - [PhysShell](https://github.com/PhysShell)
 - [nathweetwel-star](https://github.com/nathweetwel-star)
-- [zotabee](https://github.com/zotabee)
 
 
