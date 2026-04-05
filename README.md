@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (today)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
-- [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (3 weeks ago)
 - [StephenBrown2/tesla-rubric](https://github.com/StephenBrown2/tesla-rubric) - A single page app to rate used Model X for purchase (3 weeks ago)
 - [StephenBrown2/hi-fold](https://github.com/StephenBrown2/hi-fold) - Fold Bitcoin HIFO Cost Basis Calculator (1 month ago)
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) - A simple tool to export YNAB budget json (2 months ago)
