@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 day ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (today)
 - [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (3 days ago)
 - [StephenBrown2/actual-midnight-theme](https://github.com/StephenBrown2/actual-midnight-theme) - Actual Budget built-in midnight theme (1 week ago)
 - [StephenBrown2/actual-light-theme](https://github.com/StephenBrown2/actual-light-theme) - Actual Budget built-in light theme (1 week ago)
@@ -38,8 +38,8 @@ Here are some stats about me:
 
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [Aliipou](https://github.com/Aliipou)
-- [jayDevCodes](https://github.com/jayDevCodes)
 - [PhysShell](https://github.com/PhysShell)
 - [nathweetwel-star](https://github.com/nathweetwel-star)
+- [zotabee](https://github.com/zotabee)
 
 
