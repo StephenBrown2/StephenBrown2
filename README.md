@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 day ago)
+- [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (2 days ago)
 - [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
 - [StephenBrown2/actual-dark-theme](https://github.com/StephenBrown2/actual-dark-theme) - Actual Budget built-in dark theme (1 month ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.6.0](https://github.com/actualbudget/actual/releases/tag/v26.6.0), 2 days ago) - A local-first personal finance app
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.6.0](https://github.com/actualbudget/actual/releases/tag/v26.6.0), 3 days ago) - A local-first personal finance app
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 4 months ago) - A simple tool to export YNAB budget json
 - [StephenBrown2/merge-account-number-name](https://github.com/StephenBrown2/merge-account-number-name) ([v0.0.1](https://github.com/StephenBrown2/merge-account-number-name/releases/tag/v0.0.1), 8 months ago) - 
 
