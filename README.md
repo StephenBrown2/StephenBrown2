@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-My name is Stephen. I've written in Bash, Zsh, Perl, PHP, HTML, JavaScript, TypeScript, React, Python, and Go, and I'm currently learning Rust.
+My name is Stephen. I've written in bash, zsh, perl, php, html, javascript, python, and I'm trying to learn go.
 
 I enjoy writing code that reads well, runs quickly, and doesn't make me cringe when I look at it 6 months later.
 
