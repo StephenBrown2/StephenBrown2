@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (today)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 week ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
 - [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (1 month ago)
 - [StephenBrown2/actual-light-theme](https://github.com/StephenBrown2/actual-light-theme) - Actual Budget built-in light theme (3 months ago)
 - [StephenBrown2/actual-dark-theme](https://github.com/StephenBrown2/actual-dark-theme) - Actual Budget built-in dark theme (3 months ago)
