@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
+- [StephenBrown2/bible-reading-plan](https://github.com/StephenBrown2/bible-reading-plan) -  (1 day ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
-- [StephenBrown2/bible-reading-plan](https://github.com/StephenBrown2/bible-reading-plan) -  (2 weeks ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (3 weeks ago)
 - [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (3 months ago)
 - [StephenBrown2/actual-light-theme](https://github.com/StephenBrown2/actual-light-theme) - Actual Budget built-in light theme (5 months ago)
