@@ -21,14 +21,14 @@ Here are some stats about me:
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 month ago)
 - [StephenBrown2/actual-multi-account-import](https://github.com/StephenBrown2/actual-multi-account-import) -  (4 months ago)
-- [StephenBrown2/actual-light-theme](https://github.com/StephenBrown2/actual-light-theme) - Actual Budget built-in light theme (5 months ago)
+- [StephenBrown2/actual-light-theme](https://github.com/StephenBrown2/actual-light-theme) - Actual Budget built-in light theme (6 months ago)
 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.10.0](https://github.com/actualbudget/actual/releases/tag/v26.10.0), 1 day ago) - A local-first personal finance app
-- [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 8 months ago) - A simple tool to export YNAB budget json
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.10.0](https://github.com/actualbudget/actual/releases/tag/v26.10.0), 2 days ago) - A local-first personal finance app
+- [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 9 months ago) - A simple tool to export YNAB budget json
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
