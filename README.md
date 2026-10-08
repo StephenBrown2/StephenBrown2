@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.10.0](https://github.com/actualbudget/actual/releases/tag/v26.10.0), 5 days ago) - A local-first personal finance app
+- [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.10.0](https://github.com/actualbudget/actual/releases/tag/v26.10.0), 6 days ago) - A local-first personal finance app
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 9 months ago) - A simple tool to export YNAB budget json
 
 #### ❤️ These awesome people sponsor me (thank you!)
