@@ -17,7 +17,7 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/supercharger_bingo](https://github.com/StephenBrown2/supercharger_bingo) - Local first Flutter app to allow check-ins to Tesla Supercharger locations (2 days ago)
+- [StephenBrown2/supercharger_bingo](https://github.com/StephenBrown2/supercharger_bingo) - Local first Flutter app to allow check-ins to Tesla Supercharger locations (today)
 - [StephenBrown2/bible-reading-plan](https://github.com/StephenBrown2/bible-reading-plan) -  (2 days ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 month ago)
