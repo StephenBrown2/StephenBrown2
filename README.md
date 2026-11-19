@@ -39,6 +39,6 @@ Here are some stats about me:
 - [facutopa](https://github.com/facutopa)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [ArshiaIlaty](https://github.com/ArshiaIlaty)
-- [0xhustlerr](https://github.com/0xhustlerr)
+- [Aliipou](https://github.com/Aliipou)
 
 
