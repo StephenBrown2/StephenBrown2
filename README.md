@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) ([v0.40.0](https://github.com/agigante80/actual-mcp-server/releases/tag/v0.40.0), 1 day ago) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 89 tools for transactions, budgets, rules, and bank sync. No Docker needed for local use.
+- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) ([v0.40.1](https://github.com/agigante80/actual-mcp-server/releases/tag/v0.40.1), today) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 89 tools for transactions, budgets, rules, and bank sync. No Docker needed for local use.
 - [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.11.0](https://github.com/actualbudget/actual/releases/tag/v26.11.0), 3 weeks ago) - A local-first personal finance app
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 10 months ago) - A simple tool to export YNAB budget json
 
