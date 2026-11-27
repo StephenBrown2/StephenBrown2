@@ -17,8 +17,8 @@ Here are some stats about me:
 
 #### 👷 Check out what I've recently contributed to
 
-- [StephenBrown2/supercharger_bingo](https://github.com/StephenBrown2/supercharger_bingo) - Local first Flutter app to allow check-ins to Tesla Supercharger locations (today)
-- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 89 tools for transactions, budgets, rules, and bank sync. No Docker needed for local use. (1 day ago)
+- [StephenBrown2/supercharger_bingo](https://github.com/StephenBrown2/supercharger_bingo) - Local first Flutter app to allow check-ins to Tesla Supercharger locations (1 day ago)
+- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 89 tools for transactions, budgets, rules, and bank sync. No Docker needed for local use. (2 days ago)
 - [StephenBrown2/bible-reading-plan](https://github.com/StephenBrown2/bible-reading-plan) -  (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 month ago)
 - [StephenBrown2/resume](https://github.com/StephenBrown2/resume) -  (1 month ago)
@@ -27,7 +27,7 @@ Here are some stats about me:
 
 #### 🔭 Latest releases I've contributed to
 
-- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) ([v0.40.1](https://github.com/agigante80/actual-mcp-server/releases/tag/v0.40.1), today) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 89 tools for transactions, budgets, rules, and bank sync. No Docker needed for local use.
+- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) ([v0.40.1](https://github.com/agigante80/actual-mcp-server/releases/tag/v0.40.1), 1 day ago) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 89 tools for transactions, budgets, rules, and bank sync. No Docker needed for local use.
 - [actualbudget/actual](https://github.com/actualbudget/actual) ([v26.11.0](https://github.com/actualbudget/actual/releases/tag/v26.11.0), 3 weeks ago) - A local-first personal finance app
 - [StephenBrown2/ynab-export](https://github.com/StephenBrown2/ynab-export) ([v0.0.5](https://github.com/StephenBrown2/ynab-export/releases/tag/v0.0.5), 10 months ago) - A simple tool to export YNAB budget json
 
